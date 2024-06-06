@@ -1,0 +1,7 @@
+## Bugunty
+
+
+## FlipingDeliveryEquity
+## FlipingLeveragedEquity
+
+## FlipingOptionsIndexes
